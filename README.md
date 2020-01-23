@@ -1,2 +1,2 @@
 # Python
-This contains all files corresponding to Data Analysis in Python
+This contains all files corresponding to Python Programming Practice
